@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap');
+
+@import 'tailwindcss';
+
+:root {
+  --bg-dark: #030712;
+  --amber-glow: rgba(245, 158, 11, 0.4);
+}
+
+body {
+  margin: 0;
+  background-color: var(--bg-dark);
+  color: #e5e7eb;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6, .font-display {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+#root {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  border: none;
+  overflow: hidden;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+::-webkit-scrollbar-track {
+  background: rgba(3, 7, 18, 0.8);
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(75, 85, 99, 0.5);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #f59e0b;
+}
+
+/* Animations */
+@keyframes float {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+  100% { transform: translateY(0px); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+@keyframes glow-pulse {
+  0% { box-shadow: 0 0 5px rgba(245, 158, 11, 0.2); }
+  50% { box-shadow: 0 0 20px rgba(245, 158, 11, 0.6); }
+  100% { box-shadow: 0 0 5px rgba(245, 158, 11, 0.2); }
+}
+
+@keyframes slide-up {
+  0% { transform: translateY(20px); opacity: 0; }
+  100% { transform: translateY(0); opacity: 1; }
+}
+
+@keyframes spin-slow {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* Utilities */
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.05) 50%, rgba(255,255,255,0) 100%);
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite linear;
+}
+
+.animate-glow-pulse {
+  animation: glow-pulse 2s infinite;
+}
+
+.animate-slide-up {
+  animation: slide-up 0.4s ease-out forwards;
+}
+
+.animate-spin-slow {
+  animation: spin-slow 3s linear infinite;
+}
+
+.glass {
+  background: rgba(17, 24, 39, 0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.glass-strong {
+  background: rgba(17, 24, 39, 0.85);
+  backdrop-filter: blur(24px);
+  -webkit-backdrop-filter: blur(24px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.text-gradient-gold {
+  background: linear-gradient(to right, #fbbf24, #f97316);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.text-gradient-rose {
+  background: linear-gradient(to right, #f43f5e, #a855f7);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+.btn-glow {
+  transition: all 0.3s ease;
+}
+.btn-glow:hover {
+  box-shadow: 0 0 15px var(--amber-glow);
+  transform: translateY(-1px);
+}
+
+/* Leaflet Container */
+.leaflet-container {
+  background-color: var(--bg-dark);
+  outline: none;
+}
+
+.leaflet-container:focus {
+  outline: none;
+}
+
+/* Leaflet Popups */
+.leaflet-popup-content-wrapper {
+  background: rgba(17, 24, 39, 0.85) !important;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px !important;
+  box-shadow: 0 0 20px rgba(245, 158, 11, 0.2) !important;
+  color: #e5e7eb !important;
+}
+
+.leaflet-popup-tip {
+  background: rgba(17, 24, 39, 0.85) !important;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.leaflet-popup-content {
+  margin: 12px !important;
+  line-height: 1.5;
+}
+
+/* Custom Markers */
+.custom-bar-marker {
+  transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  z-index: 500 !important;
+}
+
+.custom-bar-marker:hover {
+  transform: scale(1.2) !important;
+  z-index: 1000 !important;
+}
+
+.custom-bar-marker.selected {
+  transform: scale(1.35) !important;
+  z-index: 1500 !important;
+  filter: drop-shadow(0 0 10px var(--amber-glow));
+}
+
+/* Cluster Markers */
+.marker-cluster {
+  background-clip: padding-box;
+  border-radius: 20px;
+}
+.marker-cluster div {
+  background: linear-gradient(135deg, #f59e0b, #f43f5e);
+  width: 30px;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 5px;
+  text-align: center;
+  border-radius: 15px;
+  color: white;
+  font-weight: 700;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-size: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease;
+  box-shadow: 0 4px 10px rgba(244, 63, 94, 0.4);
+}
+.marker-cluster:hover div {
+  transform: scale(1.15);
+}
+
+/* Crawl Step Pins */
+.crawl-step-pin {
+  background: linear-gradient(135deg, #f59e0b, #ef4444);
+  border: 2px solid white;
+  border-radius: 50%;
+  color: white;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: glow-pulse 2s infinite;
+  box-shadow: 0 0 10px rgba(239, 68, 68, 0.5);
+}

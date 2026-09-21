@@ -1,0 +1,3527 @@
+{
+  "bars": [
+    {
+      "name": "Le Rooftop �toil�",
+      "tagline": "",
+      "description": "Bar ajouté par la communauté BarAtlas.",
+      "type": "rooftop",
+      "address": "18 Boulevard Voltaire, Paris",
+      "city": "Paris",
+      "country": "France",
+      "lat": 48.865,
+      "lng": 2.37,
+      "priceLevel": 3,
+      "photos": [
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Cocktails maison",
+        "Sélection locale"
+      ],
+      "vibes": [
+        "Convivial",
+        "Chaleureux"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "",
+      "website": "",
+      "hours": {
+        "monday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "17:00",
+          "close": "00:00"
+        }
+      },
+      "submittedBy": "Membre Communauté",
+      "id": "bar-1789986900899-gpevo",
+      "rating": 5,
+      "reviewCount": 0,
+      "createdAt": "2026-09-21T10:35:00.899Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-paris-1",
+      "name": "Le Syndicat",
+      "tagline": "Organisation de Défense des Spiritueux Français",
+      "description": "Bar à cocktails clandestin masqué derrière une façade recouverte d'affiches de concerts. Spécialisé exclusivement dans les alcools et spiritueux 100% français (Armagnac, Cognac, Calvados, Marc de Bourgogne), réinventés avec une mixologie ultra avant-gardiste.",
+      "type": "speakeasy",
+      "address": "51 Rue du Faubourg Saint-Denis, 75010 Paris",
+      "city": "Paris",
+      "country": "France",
+      "lat": 48.8727,
+      "lng": 2.3551,
+      "priceLevel": 3,
+      "rating": 5,
+      "reviewCount": 3,
+      "photos": [
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Spiritueux Français",
+        "Cocktails Signature",
+        "Armagnac Fizz",
+        "Cognac Highball"
+      ],
+      "vibes": [
+        "Speakeasy",
+        "Hip-Hop",
+        "Mixologie Pointue",
+        "Branché"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+33 1 48 00 00 00",
+      "website": "https://syndicatcocktailclub.com",
+      "hours": {
+        "monday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "18:00",
+          "close": "02:00"
+        }
+      },
+      "createdAt": "2024-01-10T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-paris-2",
+      "name": "Little Red Door",
+      "tagline": "Menu conceptuel inspiré de la gastronomie durable",
+      "description": "Pionnier du cocktail d'auteur dans le Marais, célèbre pour sa petite porte rouge et ses menus immersifs explorant la relation entre saveurs, producteurs français et créativité liquide. Souvent classé parmi The World's 50 Best Bars.",
+      "type": "cocktail",
+      "address": "60 Rue Charlot, 75003 Paris",
+      "city": "Paris",
+      "country": "France",
+      "lat": 48.8631,
+      "lng": 2.3644,
+      "priceLevel": 3,
+      "rating": 4.9,
+      "reviewCount": 56,
+      "photos": [
+        "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Menu Terroir durable",
+        "Farm-to-Glass",
+        "Gin infusé thym-citron",
+        "Rhum vieilli maison"
+      ],
+      "vibes": [
+        "Cosy",
+        "Intime",
+        "Créatif",
+        "Lumière tamisée"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": false
+      },
+      "phone": "+33 1 42 71 19 32",
+      "website": "https://lrdparis.com",
+      "hours": {
+        "monday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "16:00",
+          "close": "02:00"
+        }
+      },
+      "createdAt": "2024-01-12T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-paris-3",
+      "name": "Le Perchoir Ménilmontant",
+      "tagline": "Rooftop panoramique avec vue imprenable sur le Sacré-Cœur",
+      "description": "Situé au 7ème étage d'un immeuble industriel de l'Est parisien, ce rooftop offre une vue à 360° sur les toits parisiens. Banquettes en bois, coussins moelleux, ambiance bohème et cocktails estivaux au coucher du soleil.",
+      "type": "rooftop",
+      "address": "14 Rue Crespin du Gast, 75011 Paris",
+      "city": "Paris",
+      "country": "France",
+      "lat": 48.8647,
+      "lng": 2.3828,
+      "priceLevel": 3,
+      "rating": 4.6,
+      "reviewCount": 38,
+      "photos": [
+        "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Spritz Maison",
+        "Cocktails Sunset",
+        "Planches tapas méditerranéennes",
+        "Vins biodynamiques"
+      ],
+      "vibes": [
+        "Rooftop",
+        "Coucher de soleil",
+        "Festif",
+        "Bohème"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+33 1 48 06 18 48",
+      "website": "https://leperchoir.fr",
+      "hours": {
+        "monday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "16:00",
+          "close": "00:00"
+        }
+      },
+      "createdAt": "2024-01-15T11:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-paris-4",
+      "name": "Moonshiner",
+      "tagline": "Véritable speakeasy caché dans une chambre froide de pizzeria",
+      "description": "Pour entrer, traversez la pizzeria Da Vito et poussez la lourde porte métallique de la chambre froide. Vous arrivez dans un bar prohibition des années 1920 avec tourne-disque gramophone, boiseries, fauteuils Chesterfield et plus de 80 références de whisky.",
+      "type": "speakeasy",
+      "address": "5 Rue Sedaine, 75011 Paris",
+      "city": "Paris",
+      "country": "France",
+      "lat": 48.8553,
+      "lng": 2.3705,
+      "priceLevel": 2,
+      "rating": 4.8,
+      "reviewCount": 64,
+      "photos": [
+        "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Old Fashioned fumé au chêne",
+        "Whisky Sour signature",
+        "Pizzas artisanales",
+        "Bourbons rares"
+      ],
+      "vibes": [
+        "Speakeasy",
+        "Rétro Années 20",
+        "Feutré",
+        "Cosy"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": false,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+33 9 50 73 12 99",
+      "hours": {
+        "monday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "18:00",
+          "close": "02:00"
+        }
+      },
+      "createdAt": "2024-01-20T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-paris-5",
+      "name": "La Fine Mousse",
+      "tagline": "Temple de la bière artisanale indépendante",
+      "description": "20 becs pression dédiés aux microbrasseries françaises et internationales les plus exigeantes (sour, NEIPA, stout vieilli en fût, lambic). Équipe de passionnés prête à vous conseiller selon vos goûts.",
+      "type": "brewery",
+      "address": "6 Avenue Jean Aicard, 75011 Paris",
+      "city": "Paris",
+      "country": "France",
+      "lat": 48.8649,
+      "lng": 2.3809,
+      "priceLevel": 2,
+      "rating": 4.7,
+      "reviewCount": 33,
+      "photos": [
+        "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1575444758702-4a6b9222336e?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Craft Beers indépendantes",
+        "Double IPA",
+        "Stout Imperial",
+        "Planches de charcuterie fermière"
+      ],
+      "vibes": [
+        "Convivial",
+        "Bière Artisanale",
+        "Chaleureux",
+        "Animé"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": true,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+33 1 48 06 40 99",
+      "website": "https://lafinemousse.fr",
+      "hours": {
+        "monday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "16:00",
+          "close": "00:00"
+        }
+      },
+      "createdAt": "2024-01-22T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-paris-6",
+      "name": "Duc des Lombards",
+      "tagline": "Le club mythique de jazz au cœur de Paris",
+      "description": "Club de jazz légendaire accueillant les plus grands virtuoses de la scène internationale. Cocktails classiques raffinés, champagne et petite restauration servis au plus près de la scène dans un cadre intimiste feutré.",
+      "type": "live_music",
+      "address": "42 Rue des Lombards, 75001 Paris",
+      "city": "Paris",
+      "country": "France",
+      "lat": 48.8596,
+      "lng": 2.3486,
+      "priceLevel": 3,
+      "rating": 4.8,
+      "reviewCount": 47,
+      "photos": [
+        "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Concerts Live Jazz",
+        "Dry Martini",
+        "Negroni Classique",
+        "Sélection de Champagnes"
+      ],
+      "vibes": [
+        "Live Jazz",
+        "Élégant",
+        "Intime",
+        "Nocturne"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+33 1 42 33 22 88",
+      "website": "https://ducdeslombards.com",
+      "hours": {
+        "monday": {
+          "open": "19:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "19:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "19:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "19:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "19:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "19:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "19:00",
+          "close": "00:00"
+        }
+      },
+      "createdAt": "2024-01-25T14:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-london-1",
+      "name": "The Connaught Bar",
+      "tagline": "Élu meilleur bar du monde à de multiples reprises",
+      "description": "Le summum de l'hospitalité londonienne dans un décor Art Déco sublime. Célèbre pour son légendaire chariot à Martinis préparé sur mesure à votre table avec des bitters aromatiques exclusifs.",
+      "type": "cocktail",
+      "address": "Connaught, Carlos Pl, Mayfair, London W1K 2AL",
+      "city": "Londres",
+      "country": "Royaume-Uni",
+      "lat": 51.5098,
+      "lng": -0.1501,
+      "priceLevel": 4,
+      "rating": 4.9,
+      "reviewCount": 78,
+      "photos": [
+        "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Connaught Martini Trolley",
+        "Fleurissimo",
+        "Canapés gastronomiques"
+      ],
+      "vibes": [
+        "Palace de Luxe",
+        "Art Déco",
+        "Élégant",
+        "Mixologie de Prestige"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+44 20 7499 7070",
+      "website": "https://the-connaught.co.uk",
+      "hours": {
+        "monday": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "friday": {
+          "open": "14:00",
+          "close": "01:00"
+        },
+        "saturday": {
+          "open": "14:00",
+          "close": "01:00"
+        },
+        "sunday": {
+          "open": "16:00",
+          "close": "00:00"
+        }
+      },
+      "createdAt": "2024-01-05T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-london-2",
+      "name": "The Churchill Arms",
+      "tagline": "Le pub fleuri le plus photographié de Kensington",
+      "description": "Construit en 1750, ce pub victorien historique est célèbre pour sa façade spectaculaire croulant sous les fleurs et plantes grimpantes. À l'intérieur, un décor pittoresque rempli de souvenirs de Winston Churchill et... une cuisine thaïlandaise succulente !",
+      "type": "pub",
+      "address": "119 Kensington Church St, London W8 7LN",
+      "city": "Londres",
+      "country": "Royaume-Uni",
+      "lat": 51.5074,
+      "lng": -0.1947,
+      "priceLevel": 2,
+      "rating": 4.7,
+      "reviewCount": 92,
+      "photos": [
+        "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Cask Ales traditionnelles",
+        "Fuller’s London Pride",
+        "Plats Thaïlandais authentiques"
+      ],
+      "vibes": [
+        "Pub Historique",
+        "Chaleureux",
+        "Folklorique",
+        "Animé"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+44 20 7727 4242",
+      "website": "https://churchillarmskensington.co.uk",
+      "hours": {
+        "monday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "tuesday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "23:30"
+        },
+        "friday": {
+          "open": "11:00",
+          "close": "00:00"
+        },
+        "saturday": {
+          "open": "11:00",
+          "close": "00:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "22:30"
+        }
+      },
+      "createdAt": "2024-01-08T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-london-3",
+      "name": "Nightjar",
+      "tagline": "Bar clandestin de jazz & cocktails spectaculaires",
+      "description": "Descendez l'escalier discret près d'Old Street pour vous immerger dans un speakeasy feutré où les cocktails sont servis dans des récipients extravagants (vaisseaux en verre soufflé, cuivre fumant, coquillages). Concerts live de swing et blues tous les soirs.",
+      "type": "speakeasy",
+      "address": "129 City Rd, London EC1V 1JB",
+      "city": "Londres",
+      "country": "Royaume-Uni",
+      "lat": 51.5273,
+      "lng": -0.0886,
+      "priceLevel": 3,
+      "rating": 4.8,
+      "reviewCount": 65,
+      "photos": [
+        "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Cocktails Prohibition & Pre-Prohibition",
+        "Cocktails fumés",
+        "Absinthe fountain"
+      ],
+      "vibes": [
+        "Speakeasy",
+        "Live Jazz & Swing",
+        "Énigmatique",
+        "Romantique"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": false
+      },
+      "phone": "+44 20 7253 4104",
+      "website": "https://barnightjar.com",
+      "hours": {
+        "monday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "18:00",
+          "close": "03:00"
+        },
+        "saturday": {
+          "open": "18:00",
+          "close": "03:00"
+        },
+        "sunday": {
+          "open": "18:00",
+          "close": "01:00"
+        }
+      },
+      "createdAt": "2024-01-14T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-nyc-1",
+      "name": "Death & Co",
+      "tagline": "L'institution new-yorkaise qui a révolutionné le cocktail moderne",
+      "description": "Niché dans l'East Village derrière une porte en bois massif ornée de métal noir, Death & Co est considéré comme le berceau de la renaissance mondiale du cocktail contemporain.",
+      "type": "cocktail",
+      "address": "433 E 6th St, New York, NY 10009",
+      "city": "New York",
+      "country": "États-Unis",
+      "lat": 40.7259,
+      "lng": -73.9847,
+      "priceLevel": 3,
+      "rating": 4.9,
+      "reviewCount": 88,
+      "photos": [
+        "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Oaxaca Old Fashioned",
+        "Naked and Famous",
+        "Rye Cocktails signature"
+      ],
+      "vibes": [
+        "Pionnier de la Mixologie",
+        "Lumière tamisée",
+        "Intime",
+        "Iconique"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": false,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+1 212-388-0882",
+      "website": "https://deathandcompany.com",
+      "hours": {
+        "monday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "18:00",
+          "close": "02:00"
+        }
+      },
+      "createdAt": "2024-01-02T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-nyc-2",
+      "name": "Please Don't Tell (PDT)",
+      "tagline": "Le speakeasy secret accessible par une cabine téléphonique",
+      "description": "Entrez dans le restaurant de hot-dogs Crif Dogs, décrochez le combiné vintage dans la cabine téléphonique et composez le 1. Le fond de la cabine s'ouvre sur un bar secret somptueux avec taxidermie chic et cocktails exceptionnels signés Jim Meehan.",
+      "type": "speakeasy",
+      "address": "113 St Marks Pl, New York, NY 10009",
+      "city": "New York",
+      "country": "États-Unis",
+      "lat": 40.7271,
+      "lng": -73.9837,
+      "priceLevel": 3,
+      "rating": 4.8,
+      "reviewCount": 71,
+      "photos": [
+        "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Benton's Old Fashioned infusé au bacon",
+        "Hot dogs gourmets de Crif Dogs",
+        "Mezcal Sours"
+      ],
+      "vibes": [
+        "Speakeasy Mystère",
+        "Branché",
+        "East Village",
+        "Exclusif"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": false,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+1 212-614-0386",
+      "website": "https://pdtnyc.com",
+      "hours": {
+        "monday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "17:00",
+          "close": "03:00"
+        },
+        "saturday": {
+          "open": "17:00",
+          "close": "03:00"
+        },
+        "sunday": {
+          "open": "17:00",
+          "close": "02:00"
+        }
+      },
+      "createdAt": "2024-01-04T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-nyc-3",
+      "name": "230 Fifth Rooftop Bar",
+      "tagline": "Vue spectaculaire face à l'Empire State Building",
+      "description": "Le plus grand rooftop en plein air de Manhattan avec jardin arboré et igloos chauffés en hiver. Vue frontale à couper le souffle sur l'Empire State Building scintillant de mille feux.",
+      "type": "rooftop",
+      "address": "230 5th Ave, New York, NY 10001",
+      "city": "New York",
+      "country": "États-Unis",
+      "lat": 40.7441,
+      "lng": -73.9878,
+      "priceLevel": 3,
+      "rating": 4.6,
+      "reviewCount": 95,
+      "photos": [
+        "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Hot Spiced Cider",
+        "Empire Sunset Martini",
+        "Bouchées à partager",
+        "Champagne"
+      ],
+      "vibes": [
+        "Skyline Incroyable",
+        "Festif",
+        "Igloos Hivernaux",
+        "Populaire"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": true,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+1 212-725-4300",
+      "website": "https://230-fifth.com",
+      "hours": {
+        "monday": {
+          "open": "15:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "15:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "15:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "15:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "14:00",
+          "close": "04:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "04:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      },
+      "createdAt": "2024-01-07T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-nyc-4",
+      "name": "McSorley's Old Ale House",
+      "tagline": "Le plus vieux bar irlandais en continu de New York (1854)",
+      "description": "\"We were here before you were born\". Sol tapissé de sciure de bois, murs chargés d'artefacts historiques d'Abraham Lincoln et JFK. Ici, vous ne choisissez qu'entre deux bières servies par paires : McSorley's Light ou McSorley's Dark.",
+      "type": "pub",
+      "address": "15 E 7th St, New York, NY 10003",
+      "city": "New York",
+      "country": "États-Unis",
+      "lat": 40.7288,
+      "lng": -73.9897,
+      "priceLevel": 1,
+      "rating": 4.7,
+      "reviewCount": 110,
+      "photos": [
+        "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "McSorley's Light Ale",
+        "McSorley's Dark Ale",
+        "Plateau Cheddar & Crackers"
+      ],
+      "vibes": [
+        "Pub Historique 1854",
+        "Authentique",
+        "Sciure au sol",
+        "Folklorique"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": false,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+1 212-473-9148",
+      "hours": {
+        "monday": {
+          "open": "11:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "11:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "01:00"
+        },
+        "friday": {
+          "open": "11:00",
+          "close": "01:00"
+        },
+        "saturday": {
+          "open": "11:00",
+          "close": "01:00"
+        },
+        "sunday": {
+          "open": "13:00",
+          "close": "01:00"
+        }
+      },
+      "createdAt": "2024-01-09T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-tokyo-1",
+      "name": "Bar Benfiddich",
+      "tagline": "L'alchimiste botaniste et le rituel d'Absinthe de Shinjuku",
+      "description": "Dirigé par le maître Hiroyasu Kayama, souvent vêtu d'une veste de lin blanc. Sans carte écrite, Kayama utilise des herbes, racines et épices cueillies dans la ferme familiale pour piler à la minute des potions liquides hallucinantes.",
+      "type": "cocktail",
+      "address": "1-13-7 Nishishinjuku, 9F Yamatoya Bldg, Shinjuku, Tokyo 160-0023",
+      "city": "Tokyo",
+      "country": "Japon",
+      "lat": 35.6908,
+      "lng": 139.6974,
+      "priceLevel": 4,
+      "rating": 4.9,
+      "reviewCount": 68,
+      "photos": [
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Cocktails Botaniques sur-mesure",
+        "Absinthe distillée maison",
+        "Racine de Ginseng infusée"
+      ],
+      "vibes": [
+        "Apothicaire Mystique",
+        "Artisanat d'Exception",
+        "Feutré",
+        "Omakase Liquid"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": false,
+        "happyHour": false,
+        "wifi": false,
+        "liveMusic": false,
+        "accessible": false
+      },
+      "phone": "+81 3-6279-4223",
+      "hours": {
+        "monday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "friday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "saturday": {
+          "open": "18:00",
+          "close": "01:00"
+        },
+        "sunday": {
+          "open": "00:00",
+          "close": "00:00",
+          "closed": true
+        }
+      },
+      "createdAt": "2024-01-01T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-tokyo-2",
+      "name": "Albatross (Golden Gai)",
+      "tagline": "Bar excentrique aux chandeliers de velours dans les ruelles de Shinjuku",
+      "description": "Situé au cœur du légendaire dédale de Golden Gai, Albatross s'étend sur 3 micro-étages reliés par des escaliers abrupts sous d'opulents lustres en cristal et un décor baroque tapissé de velours pourpre.",
+      "type": "pub",
+      "address": "1-1-7 Kabukicho, Shinjuku City, Tokyo 160-0021",
+      "city": "Tokyo",
+      "country": "Japon",
+      "lat": 35.6943,
+      "lng": 139.7042,
+      "priceLevel": 2,
+      "rating": 4.7,
+      "reviewCount": 52,
+      "photos": [
+        "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Whisky Highball japonais",
+        "Umeshu (Liqueur de prune)",
+        "Bière Sapporo fraîche"
+      ],
+      "vibes": [
+        "Golden Gai",
+        "Baroque Rétro",
+        "Intime (8 places)",
+        "Nocturne Électrique"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": false
+      },
+      "phone": "+81 3-3203-3699",
+      "hours": {
+        "monday": {
+          "open": "19:00",
+          "close": "05:00"
+        },
+        "tuesday": {
+          "open": "19:00",
+          "close": "05:00"
+        },
+        "wednesday": {
+          "open": "19:00",
+          "close": "05:00"
+        },
+        "thursday": {
+          "open": "19:00",
+          "close": "05:00"
+        },
+        "friday": {
+          "open": "19:00",
+          "close": "05:00"
+        },
+        "saturday": {
+          "open": "19:00",
+          "close": "05:00"
+        },
+        "sunday": {
+          "open": "19:00",
+          "close": "05:00"
+        }
+      },
+      "createdAt": "2024-01-03T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-tokyo-3",
+      "name": "New York Bar (Park Hyatt)",
+      "tagline": "Le bar iconique du film \"Lost in Translation\" au 52ème étage",
+      "description": "Au 52ème étage de la tour Shinjuku Park, offrant des baies vitrées monumentales plongeant sur l'océan infini des néons tokyoïtes. Quartet de jazz new-yorkais en live, whiskies rares de distilleries japonaises fermées et martinis légendaires.",
+      "type": "rooftop",
+      "address": "3-7-1-2 Nishishinjuku, Shinjuku City, Tokyo 163-1055",
+      "city": "Tokyo",
+      "country": "Japon",
+      "lat": 35.6853,
+      "lng": 139.6911,
+      "priceLevel": 4,
+      "rating": 4.8,
+      "reviewCount": 84,
+      "photos": [
+        "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Hibiki 21 ans",
+        "L.I.T. Cocktail",
+        "Vins de Californie rares",
+        "Bouchées wagyu"
+      ],
+      "vibes": [
+        "Lost in Translation",
+        "Vue Panoramique 52F",
+        "Jazz Live",
+        "Haut de Gamme"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+81 3-5323-3458",
+      "hours": {
+        "monday": {
+          "open": "17:00",
+          "close": "00:00"
+        },
+        "tuesday": {
+          "open": "17:00",
+          "close": "00:00"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "00:00"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "00:00"
+        },
+        "friday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "saturday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "sunday": {
+          "open": "17:00",
+          "close": "00:00"
+        }
+      },
+      "createdAt": "2024-01-05T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-berlin-1",
+      "name": "Klunkerkranich",
+      "tagline": "Le rooftop alternatif sur le toit d'un centre commercial à Neukölln",
+      "description": "Accessible par les ascenseurs du parking du centre commercial Neukölln Arcaden, ce jardin perché alternatif offre une vue spectaculaire sur Berlin. DJ sets électro en plein air, bières artisanales, cabanes en bois et coucher de soleil inoubliable.",
+      "type": "rooftop",
+      "address": "Karl-Marx-Str. 66, 12043 Berlin",
+      "city": "Berlin",
+      "country": "Allemagne",
+      "lat": 52.4824,
+      "lng": 13.4332,
+      "priceLevel": 2,
+      "rating": 4.7,
+      "reviewCount": 75,
+      "photos": [
+        "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Club Mate Vodka",
+        "Berliner Pilsner",
+        "Cidres locaux",
+        "Pizza bio au feu de bois"
+      ],
+      "vibes": [
+        "Rooftop Alternatif",
+        "DJ Sets Électro",
+        "Bohème Berlinois",
+        "Vue Coucher de Soleil"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": false,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+49 30 666666",
+      "website": "https://klunkerkranich.org",
+      "hours": {
+        "monday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "14:00",
+          "close": "03:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "03:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "01:00"
+        }
+      },
+      "createdAt": "2024-01-11T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-berlin-2",
+      "name": "Prater Biergarten",
+      "tagline": "Le plus vieux biergarten de Berlin (fondé en 1837)",
+      "description": "Sous les marronniers centenaires de Prenzlauer Berg, le Prater accueille jusqu'à 600 personnes sur ses bancs jaunes et tables en bois. Bière Prater brassée selon la recette historique et bretzels géants.",
+      "type": "brewery",
+      "address": "Kastanienallee 7-9, 10435 Berlin",
+      "city": "Berlin",
+      "country": "Allemagne",
+      "lat": 52.5398,
+      "lng": 13.4101,
+      "priceLevel": 1,
+      "rating": 4.6,
+      "reviewCount": 82,
+      "photos": [
+        "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1575444758702-4a6b9222336e?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Prater Pils maison",
+        "Prater Schwarzbier",
+        "Currywurst artisanale",
+        "Bretzels"
+      ],
+      "vibes": [
+        "Biergarten Historique",
+        "Plein Air",
+        "Convivial",
+        "Traditionnel"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+49 30 4485172",
+      "website": "https://pratergarten.de",
+      "hours": {
+        "monday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "01:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "01:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "23:00"
+        }
+      },
+      "createdAt": "2024-01-13T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-berlin-3",
+      "name": "Buck and Breck",
+      "tagline": "Bar secret minimaliste derrière un faux magasin secret",
+      "description": "Une vitrine anonyme \"Never Say Never\" à Mitte cache l'une des adresses cocktail les plus pointues d'Europe. Seuls 14 invités prennent place autour d'une table centrale en béton où les barmans créent des cocktails au millimètre.",
+      "type": "speakeasy",
+      "address": "Brunnenstraße 177, 10119 Berlin",
+      "city": "Berlin",
+      "country": "Allemagne",
+      "lat": 52.5323,
+      "lng": 13.4011,
+      "priceLevel": 4,
+      "rating": 4.8,
+      "reviewCount": 44,
+      "photos": [
+        "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "The Buck and Breck 1862",
+        "Smoky Mezcal",
+        "Clairin Voodoo punch"
+      ],
+      "vibes": [
+        "Ultra Minimaliste",
+        "Secret & Exclusif",
+        "Précision Allemande",
+        "Silencieux"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": false,
+        "happyHour": false,
+        "wifi": false,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+49 30 1234567",
+      "website": "https://buckandbreck.com",
+      "hours": {
+        "monday": {
+          "open": "19:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "19:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "19:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "19:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "19:00",
+          "close": "03:00"
+        },
+        "saturday": {
+          "open": "19:00",
+          "close": "03:00"
+        },
+        "sunday": {
+          "open": "19:00",
+          "close": "02:00"
+        }
+      },
+      "createdAt": "2024-01-16T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-bcn-1",
+      "name": "Paradiso",
+      "tagline": "Élu World's Best Bar 2022 caché derrière un frigo de pastrami",
+      "description": "Traversez le comptoir de pastrami du quartier du Born pour découvrir un sanctuaire de mixologie spectaculaire avec voûtes en bois ondulé inspirées de Gaudí. Les cocktails sont des chefs-d'œuvre multisensoriels avec fumée, lasers et illusions.",
+      "type": "speakeasy",
+      "address": "Carrer de Rera Palau, 4, Ciutat Vella, 08003 Barcelona",
+      "city": "Barcelone",
+      "country": "Espagne",
+      "lat": 41.3838,
+      "lng": 2.1834,
+      "priceLevel": 4,
+      "rating": 4.9,
+      "reviewCount": 98,
+      "photos": [
+        "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Kriptonita Cocktail",
+        "The Cloud",
+        "Sandwich au Pastrami artisanal"
+      ],
+      "vibes": [
+        "World Best Bar",
+        "Gaudí Futuriste",
+        "Spectacle Visuel",
+        "Exaltant"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+34 933 60 72 22",
+      "website": "https://paradiso.cat",
+      "hours": {
+        "monday": {
+          "open": "15:30",
+          "close": "02:30"
+        },
+        "tuesday": {
+          "open": "15:30",
+          "close": "02:30"
+        },
+        "wednesday": {
+          "open": "15:30",
+          "close": "02:30"
+        },
+        "thursday": {
+          "open": "15:30",
+          "close": "02:30"
+        },
+        "friday": {
+          "open": "15:00",
+          "close": "03:00"
+        },
+        "saturday": {
+          "open": "15:00",
+          "close": "03:00"
+        },
+        "sunday": {
+          "open": "15:00",
+          "close": "02:30"
+        }
+      },
+      "createdAt": "2024-01-06T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-bcn-2",
+      "name": "Bar Marsella",
+      "tagline": "Le plus vieux bar de Barcelone (1820), repaire d'Hemingway et Picasso",
+      "description": "Une institution d'El Raval figée dans le temps depuis deux siècles. Murs patinés, miroirs piqués, sol carrelé d'origine et rituel classique de l'absinthe servi avec le sucre et la cuillère trouée.",
+      "type": "pub",
+      "address": "Carrer de Sant Pau, 65, Ciutat Vella, 08001 Barcelona",
+      "city": "Barcelone",
+      "country": "Espagne",
+      "lat": 41.3789,
+      "lng": 2.1697,
+      "priceLevel": 1,
+      "rating": 4.6,
+      "reviewCount": 77,
+      "photos": [
+        "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Absinthe traditionnelle",
+        "Cerveza Moritz",
+        "Vins catalans au pichet"
+      ],
+      "vibes": [
+        "Historique 1820",
+        "Bohème Décadent",
+        "Populaire",
+        "Atmosphère d'Époque"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": false,
+        "happyHour": false,
+        "wifi": false,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+34 934 42 72 63",
+      "hours": {
+        "monday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "18:00",
+          "close": "03:00"
+        },
+        "saturday": {
+          "open": "18:00",
+          "close": "03:00"
+        },
+        "sunday": {
+          "open": "18:00",
+          "close": "02:00"
+        }
+      },
+      "createdAt": "2024-01-09T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-rome-1",
+      "name": "The Jerry Thomas Project",
+      "tagline": "Le speakeasy romain dédié au père de la mixologie moderne",
+      "description": "Premier bar secret d'Italie créé en hommage à Jerry Thomas (\"Professor\"). Mot de passe obligatoire demandé à l'interphone. Ambiance feutrée, velours rouge, jazz des années 30 et vermouths italiens artisanaux.",
+      "type": "speakeasy",
+      "address": "Vicolo Cellini, 30, 00186 Roma RM",
+      "city": "Rome",
+      "country": "Italie",
+      "lat": 41.8978,
+      "lng": 12.4682,
+      "priceLevel": 4,
+      "rating": 4.8,
+      "reviewCount": 62,
+      "photos": [
+        "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Vermouth del Professore",
+        "Negroni Vintage",
+        "Gin Madame & Gin Monsieur"
+      ],
+      "vibes": [
+        "Speakeasy Mystique",
+        "Élégance Italienne",
+        "Années 1920",
+        "Jazz"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": false,
+        "happyHour": false,
+        "wifi": false,
+        "liveMusic": false,
+        "accessible": false
+      },
+      "phone": "+39 06 9684 5937",
+      "website": "https://thejerrythomasproject.it",
+      "hours": {
+        "monday": {
+          "open": "21:00",
+          "close": "04:00"
+        },
+        "tuesday": {
+          "open": "21:00",
+          "close": "04:00"
+        },
+        "wednesday": {
+          "open": "21:00",
+          "close": "04:00"
+        },
+        "thursday": {
+          "open": "21:00",
+          "close": "04:00"
+        },
+        "friday": {
+          "open": "21:00",
+          "close": "04:30"
+        },
+        "saturday": {
+          "open": "21:00",
+          "close": "04:30"
+        },
+        "sunday": {
+          "open": "21:00",
+          "close": "03:00"
+        }
+      },
+      "createdAt": "2024-01-11T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-rome-2",
+      "name": "The Court Rome",
+      "tagline": "Cocktail bar d'exception face au Colisée illuminé",
+      "description": "Situé au sein du Palazzo Manfredi, ce bar offre une terrasse frontale directe sur le Colisée. Dirigé par le virtuose Matteo Zamberlan, vous sirotez des créations de classe mondiale avec l'un des décors antiques les plus majestueux au monde.",
+      "type": "rooftop",
+      "address": "Via Labicana, 125, 00184 Roma RM",
+      "city": "Rome",
+      "country": "Italie",
+      "lat": 41.8906,
+      "lng": 12.4939,
+      "priceLevel": 4,
+      "rating": 4.9,
+      "reviewCount": 80,
+      "photos": [
+        "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Colosseum Sunset Spritz",
+        "Amaro Sour",
+        "Aperitivo Gourmet de chef étoilé"
+      ],
+      "vibes": [
+        "Vue Mythique Colisée",
+        "Luxe & Romantisme",
+        "Spectaculaire",
+        "Coucher de soleil"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": true,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+39 06 6935 4580",
+      "website": "https://thecourtrome.it",
+      "hours": {
+        "monday": {
+          "open": "17:00",
+          "close": "01:30"
+        },
+        "tuesday": {
+          "open": "17:00",
+          "close": "01:30"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "01:30"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "01:30"
+        },
+        "friday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "17:00",
+          "close": "01:30"
+        }
+      },
+      "createdAt": "2024-01-18T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-dublin-1",
+      "name": "The Temple Bar Pub",
+      "tagline": "L'icône rouge vibrante au cœur de Dublin",
+      "description": "La plus grande collection de whiskies d'Irlande avec plus de 450 bouteilles. Musique traditionnelle irlandaise en live 7 jours sur 7 non-stop, ambiance chaleureuse, Guinness tirée à la perfection.",
+      "type": "pub",
+      "address": "47-48 Temple Bar, Dublin 2, D02 N725",
+      "city": "Dublin",
+      "country": "Irlande",
+      "lat": 53.3455,
+      "lng": -6.2642,
+      "priceLevel": 3,
+      "rating": 4.7,
+      "reviewCount": 135,
+      "photos": [
+        "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Guinness fraîche à la pression",
+        "Irish Whiskey Tasting",
+        "Irish Coffee traditionnel",
+        "Oysters"
+      ],
+      "vibes": [
+        "Trad Session Live",
+        "Énergique & Festif",
+        "Légendaire",
+        "Foule Internationale"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+353 1 672 5286",
+      "website": "https://thetemplebarpub.com",
+      "hours": {
+        "monday": {
+          "open": "10:30",
+          "close": "01:30"
+        },
+        "tuesday": {
+          "open": "10:30",
+          "close": "01:30"
+        },
+        "wednesday": {
+          "open": "10:30",
+          "close": "01:30"
+        },
+        "thursday": {
+          "open": "10:30",
+          "close": "01:30"
+        },
+        "friday": {
+          "open": "10:30",
+          "close": "02:30"
+        },
+        "saturday": {
+          "open": "10:30",
+          "close": "02:30"
+        },
+        "sunday": {
+          "open": "11:30",
+          "close": "01:00"
+        }
+      },
+      "createdAt": "2024-01-03T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-dublin-2",
+      "name": "Vintage Cocktail Club (VCC)",
+      "tagline": "Bar clandestin rétro chic derrière une simple porte noire marquée VCC",
+      "description": "Sonnez à la porte discrète de Crown Alley. Vous serez accueilli dans un manoir victorien sur trois niveaux avec cheminées d'époque, fauteuils velours et une carte de cocktails encyclopédique retraçant l'histoire des breuvages de 1400 à nos jours.",
+      "type": "speakeasy",
+      "address": "15 Crown Alley, Temple Bar, Dublin 2, D02 E229",
+      "city": "Dublin",
+      "country": "Irlande",
+      "lat": 53.3452,
+      "lng": -6.2635,
+      "priceLevel": 4,
+      "rating": 4.8,
+      "reviewCount": 54,
+      "photos": [
+        "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Tiki Punch 1930",
+        "Smoked Whiskey Sour",
+        "Bouchées gastronomiques"
+      ],
+      "vibes": [
+        "Époque Victorienne",
+        "Clandestin Raffiné",
+        "Intimiste",
+        "Boudoir"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": false
+      },
+      "phone": "+353 1 675 3947",
+      "website": "https://vintagecocktailclub.com",
+      "hours": {
+        "monday": {
+          "open": "17:00",
+          "close": "01:30"
+        },
+        "tuesday": {
+          "open": "17:00",
+          "close": "01:30"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "01:30"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "01:30"
+        },
+        "friday": {
+          "open": "16:00",
+          "close": "02:30"
+        },
+        "saturday": {
+          "open": "13:00",
+          "close": "02:30"
+        },
+        "sunday": {
+          "open": "13:00",
+          "close": "01:30"
+        }
+      },
+      "createdAt": "2024-01-08T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-mtl-1",
+      "name": "Cloakroom Bar",
+      "tagline": "L'un des meilleurs bars speakeasy d'Amérique du Nord (25 places)",
+      "description": "Niché à l'arrière d'une boutique de tailleur sur mesure de la rue de la Montagne. Pas de menu imprimé : les barmans taillent de gigantesques blocs de glace transparente sculptée à la main et conçoivent un cocktail unique après avoir cerné vos préférences.",
+      "type": "speakeasy",
+      "address": "2175 Rue de la Montagne, Montréal, QC H3G 1Z8",
+      "city": "Montréal",
+      "country": "Canada",
+      "lat": 45.4988,
+      "lng": -73.5786,
+      "priceLevel": 4,
+      "rating": 4.9,
+      "reviewCount": 58,
+      "photos": [
+        "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Glace sculptée à la main",
+        "Cocktail sur-mesure",
+        "Rye & Bourbon d'exception"
+      ],
+      "vibes": [
+        "Sur-mesure",
+        "Micro-bar Élégant",
+        "Haute Précision",
+        "Exclusif"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": false,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+1 514-284-9393",
+      "website": "https://cloakroombar.co",
+      "hours": {
+        "monday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "16:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "15:00",
+          "close": "03:00"
+        },
+        "saturday": {
+          "open": "15:00",
+          "close": "03:00"
+        },
+        "sunday": {
+          "open": "16:00",
+          "close": "02:00"
+        }
+      },
+      "createdAt": "2024-01-04T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-mtl-2",
+      "name": "Dieu du Ciel!",
+      "tagline": "La brasserie artisanale québécoise de renommée mondiale",
+      "description": "Véritable lieu de pèlerinage pour les amateurs de bières au Mile-End. Célèbre pour sa stout impériale au café Péché Mortel et ses créations saisonnières toujours novatrices.",
+      "type": "brewery",
+      "address": "29 Avenue Laurier O, Montréal, QC H2T 2N2",
+      "city": "Montréal",
+      "country": "Canada",
+      "lat": 45.5226,
+      "lng": -73.5937,
+      "priceLevel": 2,
+      "rating": 4.8,
+      "reviewCount": 79,
+      "photos": [
+        "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1575444758702-4a6b9222336e?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Péché Mortel (Stout café)",
+        "Rosée d'Hibiscus",
+        "Moralité IPA",
+        "Fromages québécois"
+      ],
+      "vibes": [
+        "Mile-End Chaleureux",
+        "Bière Culte",
+        "Convivial",
+        "Terrasse d'été"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+1 514-490-9555",
+      "website": "https://dieuduciel.com",
+      "hours": {
+        "monday": {
+          "open": "15:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "15:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "15:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "15:00",
+          "close": "01:00"
+        },
+        "friday": {
+          "open": "14:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "13:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "13:00",
+          "close": "00:00"
+        }
+      },
+      "createdAt": "2024-01-07T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-sydney-1",
+      "name": "Maybe Sammy",
+      "tagline": "L'esprit glamour du Rat Pack des années 50 au cœur des Rocks",
+      "description": "Inspiré par Frank Sinatra et Dean Martin, ce bar récompensé internationalement marie glamour hollywoodien rose poudré et barmans en vestes de smoking qui exécutent un service virtuose avec une énergie contagieuse.",
+      "type": "cocktail",
+      "address": "115 Harrington St, The Rocks NSW 2000",
+      "city": "Sydney",
+      "country": "Australie",
+      "lat": -33.8617,
+      "lng": 151.2069,
+      "priceLevel": 4,
+      "rating": 4.9,
+      "reviewCount": 66,
+      "photos": [
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Mini Martinis",
+        "Eucalyptus infused cocktails",
+        "Champagne Colada",
+        "Caviar bites"
+      ],
+      "vibes": [
+        "Rat Pack Glamour",
+        "Service Show",
+        "Élégant & Joyeux",
+        "Haut de gamme"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": true,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+61 2 9241 4970",
+      "website": "https://maybesammy.com",
+      "hours": {
+        "monday": {
+          "open": "16:30",
+          "close": "00:00"
+        },
+        "tuesday": {
+          "open": "16:30",
+          "close": "00:00"
+        },
+        "wednesday": {
+          "open": "16:30",
+          "close": "00:00"
+        },
+        "thursday": {
+          "open": "16:30",
+          "close": "01:00"
+        },
+        "friday": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "saturday": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "sunday": {
+          "open": "00:00",
+          "close": "00:00",
+          "closed": true
+        }
+      },
+      "createdAt": "2024-01-10T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-sydney-2",
+      "name": "Opera Bar",
+      "tagline": "Le plus beau spot de Sydney sous les voiles de l'Opéra House",
+      "description": "Implanté directement sur le parvis inférieur de l'Opéra de Sydney, face au mythique Harbour Bridge. Sirotez un verre de vin blanc australien ou un cocktail glacé en admirant le ballet des ferries sur la baie.",
+      "type": "rooftop",
+      "address": "Macquarie St, Sydney NSW 2000",
+      "city": "Sydney",
+      "country": "Australie",
+      "lat": -33.8572,
+      "lng": 151.2144,
+      "priceLevel": 3,
+      "rating": 4.7,
+      "reviewCount": 140,
+      "photos": [
+        "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Sydney Harbour Spritz",
+        "Huîtres fraîches de Sydney Rock",
+        "Vins Hunter Valley"
+      ],
+      "vibes": [
+        "Vue Mythique Harbour",
+        "Terrasse Immense",
+        "Ensoleillé & Coucher de soleil",
+        "Vibrant"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+61 2 8587 5900",
+      "website": "https://operabar.com.au",
+      "hours": {
+        "monday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "tuesday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "00:00"
+        },
+        "friday": {
+          "open": "11:00",
+          "close": "01:00"
+        },
+        "saturday": {
+          "open": "11:00",
+          "close": "01:00"
+        },
+        "sunday": {
+          "open": "11:00",
+          "close": "23:00"
+        }
+      },
+      "createdAt": "2024-01-12T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-bkk-1",
+      "name": "Bamboo Bar (Mandarin Oriental)",
+      "tagline": "Le plus vieux bar de jazz légendaire de Thaïlande (1953)",
+      "description": "Une légende vivante au bord du fleuve Chao Phraya. Mobilier en rotin, peaux de léopard stylisées, live jazz envoûtant et cocktails novateurs inspirés des différentes régions de Thaïlande.",
+      "type": "live_music",
+      "address": "48 Oriental Ave, Khwaeng Bang Rak, Bangkok 10500",
+      "city": "Bangkok",
+      "country": "Thaïlande",
+      "lat": 13.7236,
+      "lng": 100.5147,
+      "priceLevel": 4,
+      "rating": 4.8,
+      "reviewCount": 60,
+      "photos": [
+        "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Hawker Cocktail",
+        "Spiced Rum Thai",
+        "Live Jazz Quotidien"
+      ],
+      "vibes": [
+        "Légende Historique 1953",
+        "Live Jazz Suave",
+        "Colonial Raffiné",
+        "Nocturne"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+66 2 659 9000",
+      "hours": {
+        "monday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "friday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "17:00",
+          "close": "01:00"
+        }
+      },
+      "createdAt": "2024-01-14T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-bkk-2",
+      "name": "Octave Rooftop Lounge",
+      "tagline": "Terrasse vertigineuse à 360° au 49ème étage de Sukhumvit",
+      "description": "Trois étages en plein air perchés au sommet de l'hôtel Marriott Sukhumvit 57. Vue sans barrière visuelle sur toute la mégalopole illuminée de Bangkok, DJ sets house et cocktails tropicaux signature.",
+      "type": "rooftop",
+      "address": "2 Sukhumvit Soi 57, Klongtan Nua, Bangkok 10110",
+      "city": "Bangkok",
+      "country": "Thaïlande",
+      "lat": 13.7237,
+      "lng": 100.5802,
+      "priceLevel": 3,
+      "rating": 4.7,
+      "reviewCount": 88,
+      "photos": [
+        "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Bangkok 57 Cocktail",
+        "Passion Fruit Mojito",
+        "Tapas asiatiques modernes"
+      ],
+      "vibes": [
+        "Vertigineux 360°",
+        "DJ House & Sunset",
+        "Branché",
+        "Spectaculaire"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": true,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+66 2 797 0000",
+      "hours": {
+        "monday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "17:00",
+          "close": "02:00"
+        }
+      },
+      "createdAt": "2024-01-16T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-cdmx-1",
+      "name": "Handshake Speakeasy",
+      "tagline": "Élu meilleur bar du monde (The World's 50 Best Bars 2024)",
+      "description": "Caché derrière une fausse porte dans le quartier branché de Juárez, Handshake propose un laboratoire liquide moléculaire où la haute technologie de distillation sous vide révèle des saveurs mexicaines insoupçonnées avec une clarté totale.",
+      "type": "speakeasy",
+      "address": "C. Amberes 65, Juárez, Cuauhtémoc, 06600 Ciudad de México",
+      "city": "Mexico",
+      "country": "Mexique",
+      "lat": 19.4249,
+      "lng": -99.1661,
+      "priceLevel": 4,
+      "rating": 5,
+      "reviewCount": 92,
+      "photos": [
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Fig Martini clarifié",
+        "Mezcal Mole cocktail",
+        "Matcha cocktail signature"
+      ],
+      "vibes": [
+        "Meilleur Bar du Monde",
+        "Alchimie Moléculaire",
+        "Ultra Exclusif",
+        "Chic Noir & Or"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+52 55 5207 4333",
+      "website": "https://handshake.bar",
+      "hours": {
+        "monday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "18:00",
+          "close": "00:00"
+        }
+      },
+      "createdAt": "2024-01-17T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-cdmx-2",
+      "name": "Licorería Limantour",
+      "tagline": "L'icône de la Roma Norte qui a fait rayonner le Mexique dans le monde",
+      "description": "Fondé en 2011, Limantour est le pionnier légendaire de la scène mixologique mexicaine. Une énergie vibrante sur deux niveaux dans la magnifique avenue Álvaro Obregón.",
+      "type": "cocktail",
+      "address": "Av. Álvaro Obregón 106, Roma Nte., Cuauhtémoc, 06700 Ciudad de México",
+      "city": "Mexico",
+      "country": "Mexique",
+      "lat": 19.4178,
+      "lng": -99.1583,
+      "priceLevel": 3,
+      "rating": 4.8,
+      "reviewCount": 76,
+      "photos": [
+        "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Margarita al Pastor",
+        "Mezcal Stiggins",
+        "Tacos gourmets"
+      ],
+      "vibes": [
+        "Roma Norte Vibrant",
+        "Créatif & Festif",
+        "Mixologie Latine",
+        "Incontournable"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+52 55 5264 4122",
+      "website": "https://limantour.tv",
+      "hours": {
+        "monday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "tuesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "wednesday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "thursday": {
+          "open": "18:00",
+          "close": "02:00"
+        },
+        "friday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "18:00",
+          "close": "00:00"
+        }
+      },
+      "createdAt": "2024-01-19T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-sg-1",
+      "name": "Atlas Bar",
+      "tagline": "L'impressionnant palais Art Déco abritant la plus grande tour de gin au monde",
+      "description": "Une cathédrale de l'Art Déco inspirée de Gotham City avec des plafonds peints de 15 mètres et une majestueuse tour en or abritant plus de 1 400 gins rares.",
+      "type": "cocktail",
+      "address": "600 North Bridge Rd, Parkview Square, Singapore 188778",
+      "city": "Singapour",
+      "country": "Singapour",
+      "lat": 1.3005,
+      "lng": 103.8576,
+      "priceLevel": 4,
+      "rating": 4.9,
+      "reviewCount": 96,
+      "photos": [
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Atlas Vintage Martini",
+        "Collection de 1400+ Gins",
+        "Champagnes Millésimés"
+      ],
+      "vibes": [
+        "Art Déco Monumental",
+        "Grand Luxe",
+        "Palace",
+        "Majestueux"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+65 6396 4466",
+      "website": "https://atlasbar.sg",
+      "hours": {
+        "monday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "tuesday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "wednesday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "thursday": {
+          "open": "12:00",
+          "close": "00:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "00:00",
+          "close": "00:00",
+          "closed": true
+        }
+      },
+      "createdAt": "2024-01-20T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-ams-1",
+      "name": "Brouwerij 't IJ",
+      "tagline": "La brasserie culte au pied du plus grand moulin en bois d'Amsterdam",
+      "description": "Dégustez des bières artisanales non filtrées et biologiques sur la terrasse ensoleillée juste sous les ailes du majestueux moulin De Gooyer datant de 1725.",
+      "type": "brewery",
+      "address": "Funenkade 7, 1018 AL Amsterdam",
+      "city": "Amsterdam",
+      "country": "Pays-Bas",
+      "lat": 52.3667,
+      "lng": 4.9264,
+      "priceLevel": 1,
+      "rating": 4.7,
+      "reviewCount": 85,
+      "photos": [
+        "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1575444758702-4a6b9222336e?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Zatte Tripel bio",
+        "IJwit bière blanche",
+        "Fromage au cumin des fermes locales"
+      ],
+      "vibes": [
+        "Moulin Historique",
+        "Terrasse Populaire",
+        "Convivial",
+        "Bière Artisanale"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+31 20 622 8325",
+      "website": "https://brouwerijtij.nl",
+      "hours": {
+        "monday": {
+          "open": "14:00",
+          "close": "20:00"
+        },
+        "tuesday": {
+          "open": "14:00",
+          "close": "20:00"
+        },
+        "wednesday": {
+          "open": "14:00",
+          "close": "20:00"
+        },
+        "thursday": {
+          "open": "14:00",
+          "close": "20:00"
+        },
+        "friday": {
+          "open": "12:00",
+          "close": "21:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "21:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "20:00"
+        }
+      },
+      "createdAt": "2024-01-21T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-ams-2",
+      "name": "Tales & Spirits",
+      "tagline": "Contes et cocktails espiègles dans une maison de canal du 16e siècle",
+      "description": "Chaque cocktail raconte une histoire insolite, servi avec des garnitures amusantes dans un cadre chaleureux et tamisé près des canaux.",
+      "type": "cocktail",
+      "address": "Lijnbaanssteeg 5-7, 1012 TE Amsterdam",
+      "city": "Amsterdam",
+      "country": "Pays-Bas",
+      "lat": 52.3756,
+      "lng": 4.8911,
+      "priceLevel": 3,
+      "rating": 4.8,
+      "reviewCount": 64,
+      "photos": [
+        "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1574096079513-d8259312b785?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Fallen Lady",
+        "Professeur cocktail",
+        "Bouchées hollandaises gourmandes"
+      ],
+      "vibes": [
+        "Maison de Canal",
+        "Cosy & Chaleureux",
+        "Esprit Joyeux",
+        "Mixologie"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": false
+      },
+      "phone": "+31 6 55364132",
+      "hours": {
+        "monday": {
+          "open": "17:30",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "17:30",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "17:30",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "17:30",
+          "close": "01:00"
+        },
+        "friday": {
+          "open": "17:30",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "17:30",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "17:30",
+          "close": "01:00"
+        }
+      },
+      "createdAt": "2024-01-22T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-prague-1",
+      "name": "Hemingway Bar Prague",
+      "tagline": "L'hommage pragois au grand écrivain et à l'art de l'absinthe",
+      "description": "Une ode à Ernest Hemingway avec des fontaines d'absinthe traditionnelles, une sélection colossale de rhums des Caraïbes et des cocktails infusés maison servis dans des contenants surprenants.",
+      "type": "cocktail",
+      "address": "Karoliny Světlé 26, 110 00 Staré Město, Prague",
+      "city": "Prague",
+      "country": "République Tchèque",
+      "lat": 50.0827,
+      "lng": 14.4143,
+      "priceLevel": 3,
+      "rating": 4.8,
+      "reviewCount": 71,
+      "photos": [
+        "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Hemingway Daiquiri",
+        "Absinthes tchèques et suisses",
+        "Rhums rares"
+      ],
+      "vibes": [
+        "Littéraire & Boisé",
+        "Ambiance Feutrée",
+        "Gentlemen Club",
+        "Intime"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": true
+      },
+      "phone": "+420 773 974 764",
+      "website": "https://hemingwaybar.cz",
+      "hours": {
+        "monday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "01:00"
+        },
+        "friday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "saturday": {
+          "open": "17:00",
+          "close": "02:00"
+        },
+        "sunday": {
+          "open": "17:00",
+          "close": "00:00"
+        }
+      },
+      "createdAt": "2024-01-23T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-brux-1",
+      "name": "Delirium Café",
+      "tagline": "Record Guinness mondial avec plus de 2 000 bières",
+      "description": "Situé dans l'impasse de la Fidélité, le Delirium Café est le paradis absolu des amateurs de houblon avec plus de 2 000 références de bières trappistes, d'abbaye, gueuzes et lambics.",
+      "type": "brewery",
+      "address": "Impasse de la Fidélité 4, 1000 Bruxelles",
+      "city": "Bruxelles",
+      "country": "Belgique",
+      "lat": 50.8484,
+      "lng": 4.3541,
+      "priceLevel": 2,
+      "rating": 4.6,
+      "reviewCount": 120,
+      "photos": [
+        "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1575444758702-4a6b9222336e?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1538488881522-4321453a9927?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Delirium Tremens",
+        "Trappiste Westvleteren",
+        "Cantillon Gueuze",
+        "Fromages belges"
+      ],
+      "vibes": [
+        "Guinness World Record",
+        "Fête & Convivialité",
+        "Bières Belges",
+        "Historique"
+      ],
+      "amenities": {
+        "terrace": true,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": true,
+        "accessible": true
+      },
+      "phone": "+32 2 514 44 34",
+      "website": "https://deliriumvillage.com",
+      "hours": {
+        "monday": {
+          "open": "10:00",
+          "close": "04:00"
+        },
+        "tuesday": {
+          "open": "10:00",
+          "close": "04:00"
+        },
+        "wednesday": {
+          "open": "10:00",
+          "close": "04:00"
+        },
+        "thursday": {
+          "open": "10:00",
+          "close": "04:00"
+        },
+        "friday": {
+          "open": "10:00",
+          "close": "04:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "04:00"
+        },
+        "sunday": {
+          "open": "10:00",
+          "close": "04:00"
+        }
+      },
+      "createdAt": "2024-01-24T10:00:00Z",
+      "isVerified": true
+    },
+    {
+      "id": "bar-edin-1",
+      "name": "Panda & Sons",
+      "tagline": "Speakeasy innovant dissimulé derrière un salon de barbier vintage",
+      "description": "Poussez la bibliothèque secrète du salon de coiffure de Queen Street pour entrer dans un bar réputé mondialement pour ses techniques pionnières de congélation sous zéro (« sous pression cryogénique »).",
+      "type": "speakeasy",
+      "address": "79 Queen St, Edinburgh EH2 4NF",
+      "city": "Édimbourg",
+      "country": "Écosse",
+      "lat": 55.9529,
+      "lng": -3.2036,
+      "priceLevel": 3,
+      "rating": 4.8,
+      "reviewCount": 63,
+      "photos": [
+        "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80",
+        "https://images.unsplash.com/photo-1560512823-829485b8bf24?w=1200&auto=format&fit=crop&q=80"
+      ],
+      "coverPhoto": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80",
+      "specialties": [
+        "Sub-Zero Cocktails",
+        "Scotch Whisky Flights",
+        "Cryo-Concentration signatures"
+      ],
+      "vibes": [
+        "Barbier Rétro",
+        "Technologie Liquide Cryogénique",
+        "Chaleureux",
+        "Surprenant"
+      ],
+      "amenities": {
+        "terrace": false,
+        "food": true,
+        "happyHour": false,
+        "wifi": true,
+        "liveMusic": false,
+        "accessible": false
+      },
+      "phone": "+44 131 220 0336",
+      "website": "https://pandaandsons.com",
+      "hours": {
+        "monday": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "tuesday": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "wednesday": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "thursday": {
+          "open": "16:00",
+          "close": "01:00"
+        },
+        "friday": {
+          "open": "15:00",
+          "close": "01:00"
+        },
+        "saturday": {
+          "open": "12:00",
+          "close": "01:00"
+        },
+        "sunday": {
+          "open": "15:00",
+          "close": "01:00"
+        }
+      },
+      "createdAt": "2024-01-26T10:00:00Z",
+      "isVerified": true
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1789986897401-fkwk",
+      "barId": "bar-paris-1",
+      "author": "Testeur",
+      "rating": 5,
+      "comment": "Super cocktail test !",
+      "createdAt": "2026-09-21T10:34:57.401Z",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150&auto=format&fit=crop&q=80",
+      "likes": 0
+    },
+    {
+      "id": "rev-1",
+      "barId": "bar-paris-1",
+      "author": "Clémence V.",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "comment": "L'un des bars les plus créatifs de Paris ! Tout est à base de spiritueux français, le cocktail à l'Armagnac et poire rôtie était une pure merveille. Ambiance hip-hop au top.",
+      "createdAt": "2024-02-15T21:30:00Z",
+      "likes": 12
+    },
+    {
+      "id": "rev-2",
+      "barId": "bar-paris-1",
+      "author": "Marc D.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "comment": "Incroyable façade cachée couverte d'affiches. Une fois entré, rideaux dorés et cocktails millimétrés.",
+      "createdAt": "2024-02-28T22:15:00Z",
+      "likes": 8
+    },
+    {
+      "id": "rev-3",
+      "barId": "bar-paris-4",
+      "author": "Julien T.",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "comment": "Traverser la chambre froide de la pizzeria donne un frisson génial. Leurs Old Fashioned fumés au bois de chêne valent le détour.",
+      "createdAt": "2024-03-01T23:45:00Z",
+      "likes": 19
+    },
+    {
+      "id": "rev-4",
+      "barId": "bar-london-1",
+      "author": "James H.",
+      "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "comment": "The Connaught Martini Trolley is an unmatched experience in hospitality. The attention to detail is truly world-class.",
+      "createdAt": "2024-02-10T19:20:00Z",
+      "likes": 24
+    },
+    {
+      "id": "rev-5",
+      "barId": "bar-bcn-1",
+      "author": "Sofia R.",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "comment": "Totalement bluffant ! L'entrée par le réfrigérateur à pastrami est géniale et les présentations de cocktails sont magiques.",
+      "createdAt": "2024-03-05T20:10:00Z",
+      "likes": 15
+    },
+    {
+      "id": "rev-6",
+      "barId": "bar-tokyo-1",
+      "author": "Kenji S.",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "rating": 5,
+      "comment": "Kayama-san is a wizard. Freshly grounded herbs from his farm into a mortar right in front of you. Absolute perfection.",
+      "createdAt": "2024-02-22T21:00:00Z",
+      "likes": 31
+    }
+  ],
+  "crawls": [
+    {
+      "id": "crawl-paris-1",
+      "title": "Nuit Secrète & Cocktails dans l'Est Parisien",
+      "description": "Une immersion dans les meilleurs bars cachés et créatifs de Bastille à République. Du speakeasy au bar d'auteur en passant par la craft beer.",
+      "city": "Paris",
+      "country": "France",
+      "author": "Alexandre, Explorateur Nocturne",
+      "coverImage": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+      "stops": [
+        {
+          "barId": "bar-paris-4",
+          "order": 1,
+          "suggestedDurationMinutes": 60,
+          "notes": "Commencer par une pizza chez Da Vito et pénétrer dans la chambre froide du Moonshiner."
+        },
+        {
+          "barId": "bar-paris-2",
+          "order": 2,
+          "suggestedDurationMinutes": 60,
+          "notes": "Cocktail d'auteur et terroirs durables au Little Red Door."
+        },
+        {
+          "barId": "bar-paris-1",
+          "order": 3,
+          "suggestedDurationMinutes": 75,
+          "notes": "Finir en apothéose avec les spiritueux français du Syndicat."
+        }
+      ],
+      "estimatedTotalTimeMinutes": 210,
+      "estimatedWalkingKm": 2.8,
+      "tags": [
+        "Speakeasy",
+        "Mixologie",
+        "Paris Secret",
+        "Marais & Bastille"
+      ],
+      "createdAt": "2024-01-20T18:00:00Z"
+    },
+    {
+      "id": "crawl-tokyo-1",
+      "title": "Tokyo Neon & Alchemy Run (Shinjuku)",
+      "description": "Explorez le contraste saisissant entre les ruelles étroites de Golden Gai, la haute alchimie d'apothicaire et la vue panoramique au 52ème étage.",
+      "city": "Tokyo",
+      "country": "Japon",
+      "author": "Yuki & Tom",
+      "coverImage": "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=1200&auto=format&fit=crop&q=80",
+      "stops": [
+        {
+          "barId": "bar-tokyo-2",
+          "order": 1,
+          "suggestedDurationMinutes": 45,
+          "notes": "Highball dans le micro-bar Albatross au cœur de Golden Gai."
+        },
+        {
+          "barId": "bar-tokyo-1",
+          "order": 2,
+          "suggestedDurationMinutes": 70,
+          "notes": "Expérience botanique sans carte chez le maître Kayama."
+        },
+        {
+          "barId": "bar-tokyo-3",
+          "order": 3,
+          "suggestedDurationMinutes": 60,
+          "notes": "Clôture en hauteur avec jazz live face aux gratte-ciels illuminés."
+        }
+      ],
+      "estimatedTotalTimeMinutes": 190,
+      "estimatedWalkingKm": 2.2,
+      "tags": [
+        "Lost in Translation",
+        "Shinjuku",
+        "Botanical",
+        "Golden Gai"
+      ],
+      "createdAt": "2024-01-22T19:00:00Z"
+    },
+    {
+      "id": "crawl-nyc-1",
+      "title": "Manhattan Speakeasy & Iconic Ales",
+      "description": "Une traversée historique de l'East Village et Lower East Side, de la plus ancienne taverne de 1854 jusqu'à la renaissance moderne du cocktail.",
+      "city": "New York",
+      "country": "États-Unis",
+      "author": "Sarah NYC Explorer",
+      "coverImage": "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=1200&auto=format&fit=crop&q=80",
+      "stops": [
+        {
+          "barId": "bar-nyc-4",
+          "order": 1,
+          "suggestedDurationMinutes": 50,
+          "notes": "Bière brune historique et sciure au sol chez McSorley's."
+        },
+        {
+          "barId": "bar-nyc-2",
+          "order": 2,
+          "suggestedDurationMinutes": 60,
+          "notes": "Cabine téléphonique secrète chez PDT pour un cocktail infusé au bacon."
+        },
+        {
+          "barId": "bar-nyc-1",
+          "order": 3,
+          "suggestedDurationMinutes": 75,
+          "notes": "Le temple moderne du cocktail Death & Co."
+        }
+      ],
+      "estimatedTotalTimeMinutes": 200,
+      "estimatedWalkingKm": 1.6,
+      "tags": [
+        "Speakeasy",
+        "East Village",
+        "Cocktails Légendaires"
+      ],
+      "createdAt": "2024-01-25T20:00:00Z"
+    }
+  ],
+  "badges": [
+    {
+      "id": "first_sip",
+      "name": "Première Gorgée",
+      "description": "Avoir visité son premier bar.",
+      "icon": "🍺",
+      "category": "visits",
+      "targetCount": 1
+    },
+    {
+      "id": "regular",
+      "name": "Habitué des Comptoirs",
+      "description": "Avoir visité au moins 5 bars différents.",
+      "icon": "🍻",
+      "category": "visits",
+      "targetCount": 5
+    },
+    {
+      "id": "night_owl",
+      "name": "Noctambule Invétéré",
+      "description": "Avoir visité au moins 10 bars.",
+      "icon": "🦉",
+      "category": "visits",
+      "targetCount": 10
+    },
+    {
+      "id": "globe_trotter",
+      "name": "Globe-Trotter de la Nuit",
+      "description": "Avoir visité des bars dans au moins 3 pays distincts.",
+      "icon": "🌍",
+      "category": "countries",
+      "targetCount": 3
+    },
+    {
+      "id": "world_connoisseur",
+      "name": "Connaisseur International",
+      "description": "Avoir exploré des bars dans au moins 5 pays.",
+      "icon": "✈️",
+      "category": "countries",
+      "targetCount": 5
+    },
+    {
+      "id": "cocktail_master",
+      "name": "Maître du Shaker",
+      "description": "Avoir testé 3 bars à cocktails d’exception.",
+      "icon": "🍸",
+      "category": "types",
+      "targetCount": 3
+    },
+    {
+      "id": "speakeasy_hunter",
+      "name": "Agent Secret",
+      "description": "Avoir déniché 2 bars cachés (Speakeasy).",
+      "icon": "🗝️",
+      "category": "types",
+      "targetCount": 2
+    },
+    {
+      "id": "sky_high",
+      "name": "Tête dans les Nuages",
+      "description": "Avoir bu un verre sur 3 rooftops différents.",
+      "icon": "🌇",
+      "category": "types",
+      "targetCount": 3
+    },
+    {
+      "id": "brewmaster",
+      "name": "Amateur de Houblon",
+      "description": "Avoir savouré des bières dans 3 brasseries artisanales ou pubs.",
+      "icon": "🍺",
+      "category": "types",
+      "targetCount": 3
+    },
+    {
+      "id": "crawl_master",
+      "name": "Capitaine de Tournée",
+      "description": "Avoir créé ou complété un Bar Crawl.",
+      "icon": "🗺️",
+      "category": "crawls",
+      "targetCount": 1
+    },
+    {
+      "id": "critic",
+      "name": "Critique Averti",
+      "description": "Avoir rédigé au moins 3 avis détaillés.",
+      "icon": "✍️",
+      "category": "social",
+      "targetCount": 3
+    },
+    {
+      "id": "contributor",
+      "name": "Pionnier Urbain",
+      "description": "Avoir ajouté un nouveau bar à la carte communautaire.",
+      "icon": "🌟",
+      "category": "social",
+      "targetCount": 1
+    },
+    {
+      "id": "event_first_step",
+      "name": "Premier Verre Partagé",
+      "description": "Participer à sa première soirée ou rencontre organisée dans un bar.",
+      "icon": "🎉",
+      "category": "events",
+      "targetCount": 1
+    },
+    {
+      "id": "event_social_butterfly",
+      "name": "Papoteur de Comptoir",
+      "description": "Avoir participé à au moins 3 soirées, afterworks ou rencontres.",
+      "icon": "🤝",
+      "category": "events",
+      "targetCount": 3
+    },
+    {
+      "id": "event_party_animal",
+      "name": "Légende des Soirées",
+      "description": "Participer à 5 soirées BarAtlas. Une véritable star de la nuit !",
+      "icon": "👑",
+      "category": "events",
+      "targetCount": 5
+    },
+    {
+      "id": "event_host",
+      "name": "Maître de Cérémonie",
+      "description": "Créer et organiser sa première soirée communautaire dans un bar.",
+      "icon": "🎤",
+      "category": "events",
+      "targetCount": 1
+    },
+    {
+      "id": "event_curious",
+      "name": "Caméléon Festif",
+      "description": "Participer à des soirées de 3 ambiances distinctes (Meetup, Afterwork, Blind Test...).",
+      "icon": "🌈",
+      "category": "events",
+      "targetCount": 3
+    },
+    {
+      "id": "event_blind_test",
+      "name": "As du Blind Test",
+      "description": "Rejoindre une soirée Quiz musical ou Jeux de société dans un bar.",
+      "icon": "🎲",
+      "category": "events",
+      "targetCount": 1
+    },
+    {
+      "id": "event_cocktail_enthusiast",
+      "name": "Dégustateur Averti",
+      "description": "Participer à un atelier mixologie ou dégustation dans un bar à cocktails.",
+      "icon": "🍹",
+      "category": "events",
+      "targetCount": 1
+    }
+  ],
+  "userProfiles": {
+    "default-user": {
+      "id": "default-user",
+      "username": "AlexNightExplorer",
+      "name": "Alexandre Meyer",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+      "bio": "Passionné de mixologie d'auteur, de speakeasies mystérieux et de terrasses perchées.",
+      "favoriteBarIds": [
+        "bar-paris-1",
+        "bar-nyc-1",
+        "bar-tokyo-1"
+      ],
+      "visitedBarIds": [
+        "bar-paris-1",
+        "bar-paris-4",
+        "bar-london-1",
+        "bar-bcn-1"
+      ],
+      "bucketListBarIds": [
+        "bar-tokyo-1",
+        "bar-cdmx-1",
+        "bar-sg-1"
+      ],
+      "unlockedBadgeIds": [
+        "first_sip",
+        "cocktail_master",
+        "globe_trotter",
+        "speakeasy_hunter",
+        "crawl_master",
+        "contributor",
+        "event_first_step",
+        "event_blind_test",
+        "event_host",
+        "event_cocktail_enthusiast"
+      ],
+      "createdBarIds": [
+        "bar-1789986900899-gpevo"
+      ],
+      "crawlsCreated": [
+        "crawl-paris-1"
+      ]
+    }
+  },
+  "events": [
+    {
+      "id": "evt-1789990771877",
+      "barId": "bar-paris-1",
+      "barName": "Le Syndicat",
+      "barCity": "Paris",
+      "barCountry": "France",
+      "barPhoto": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=1200&auto=format&fit=crop&q=80",
+      "title": "Apéro Test",
+      "description": "Rejoignez-nous pour partager un verre et faire de nouvelles connaissances !",
+      "category": "meetup",
+      "date": "2026-10-01",
+      "time": "19:00",
+      "organizer": {
+        "name": "Alexandre Meyer",
+        "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80"
+      },
+      "participants": [
+        {
+          "id": "default-user",
+          "name": "Alexandre Meyer",
+          "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-21T11:39:31.877Z"
+        }
+      ],
+      "maxParticipants": 25,
+      "tags": [
+        "Soirée",
+        "Rencontres"
+      ],
+      "createdAt": "2026-09-21T11:39:31.878Z"
+    },
+    {
+      "id": "evt-1",
+      "barId": "bar-paris-1",
+      "barName": "Le Syndicat",
+      "barCity": "Paris",
+      "barCountry": "France",
+      "barPhoto": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&auto=format&fit=crop&q=80",
+      "title": "🍸 Speed Friending & Cocktails Français",
+      "description": "Venez briser la glace autour de créations signatures 100% spiritueux français. Tables rondes de 4 personnes qui tournent toutes les 20 minutes pour faire de superbes rencontres !",
+      "category": "singles",
+      "date": "2026-09-25",
+      "time": "19:30",
+      "organizer": {
+        "name": "Sophie Martin",
+        "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop&q=80"
+      },
+      "participants": [
+        {
+          "id": "u1",
+          "name": "Alexandre",
+          "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-20T10:00:00Z"
+        },
+        {
+          "id": "u2",
+          "name": "Camille",
+          "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-20T11:30:00Z"
+        },
+        {
+          "id": "u3",
+          "name": "Thomas",
+          "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-20T14:15:00Z"
+        },
+        {
+          "id": "u4",
+          "name": "Léa",
+          "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-21T09:00:00Z"
+        }
+      ],
+      "maxParticipants": 24,
+      "tags": [
+        "Rencontres",
+        "Cocktails",
+        "Icebreaker",
+        "Paris 10e"
+      ],
+      "createdAt": "2026-09-18T12:00:00Z"
+    },
+    {
+      "id": "evt-2",
+      "barId": "bar-paris-2",
+      "barName": "Little Red Door",
+      "barCity": "Paris",
+      "barCountry": "France",
+      "barPhoto": "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=800&auto=format&fit=crop&q=80",
+      "title": "🚀 Afterwork Founders & Créatifs",
+      "description": "Un afterwork décontracté pour les passionnés de tech, de design et de startups. Échange d'idées, bons verres et ambiance tamisée dans l'un des 50 meilleurs bars du monde.",
+      "category": "afterwork",
+      "date": "2026-09-26",
+      "time": "18:45",
+      "organizer": {
+        "name": "Julien Laurent",
+        "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&auto=format&fit=crop&q=80"
+      },
+      "participants": [
+        {
+          "id": "u5",
+          "name": "Élodie",
+          "avatar": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-19T08:00:00Z"
+        },
+        {
+          "id": "u6",
+          "name": "Maxime",
+          "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-19T10:20:00Z"
+        },
+        {
+          "id": "u7",
+          "name": "Sarah",
+          "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-20T16:00:00Z"
+        }
+      ],
+      "maxParticipants": 18,
+      "tags": [
+        "Afterwork",
+        "Tech",
+        "Networking",
+        "Marais"
+      ],
+      "createdAt": "2026-09-17T15:00:00Z"
+    },
+    {
+      "id": "evt-3",
+      "barId": "bar-paris-6",
+      "barName": "The Frog & Rosbif",
+      "barCity": "Paris",
+      "barCountry": "France",
+      "barPhoto": "https://images.unsplash.com/photo-1538488881522-4321453a6989?w=800&auto=format&fit=crop&q=80",
+      "title": "🎲 Soirée Blind Test Pop-Rock & Bières Artisanales",
+      "description": "Équipes de 3 à 5 personnes, 4 manches musicales déjantées (hits 90s, séries TV, solos de guitare), des pichets de bière brassée sur place à gagner ! Inscription gratuite et ambiance garantie.",
+      "category": "games",
+      "date": "2026-09-28",
+      "time": "20:00",
+      "organizer": {
+        "name": "Dave Wilson",
+        "avatar": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=200&auto=format&fit=crop&q=80"
+      },
+      "participants": [
+        {
+          "id": "u8",
+          "name": "Clara",
+          "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-21T09:30:00Z"
+        },
+        {
+          "id": "u9",
+          "name": "Hugo",
+          "avatar": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-21T10:15:00Z"
+        },
+        {
+          "id": "default-user",
+          "name": "Alexandre Meyer",
+          "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-21T11:39:18.004Z"
+        }
+      ],
+      "maxParticipants": 40,
+      "tags": [
+        "Blind Test",
+        "Bières",
+        "Jeux",
+        "Pub Quizz"
+      ],
+      "createdAt": "2026-09-19T18:00:00Z"
+    },
+    {
+      "id": "evt-4",
+      "barId": "bar-paris-5",
+      "barName": "Candelaria",
+      "barCity": "Paris",
+      "barCountry": "France",
+      "barPhoto": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=800&auto=format&fit=crop&q=80",
+      "title": "🌮 Tacos, Mezcal & Latin Vibes",
+      "description": "Rencontre informelle d'amateurs de culture latino-américaine, de mezcals artisanaux et de tacos savoureux. Derrière la porte secrète de la taqueria !",
+      "category": "party",
+      "date": "2026-09-27",
+      "time": "20:30",
+      "organizer": {
+        "name": "Mateo Gomez",
+        "avatar": "https://images.unsplash.com/photo-1501196354995-cbb51c65aaea?w=200&auto=format&fit=crop&q=80"
+      },
+      "participants": [
+        {
+          "id": "u10",
+          "name": "Lucia",
+          "avatar": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-20T14:00:00Z"
+        },
+        {
+          "id": "u11",
+          "name": "Romain",
+          "avatar": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?w=200&auto=format&fit=crop&q=80",
+          "joinedAt": "2026-09-21T11:00:00Z"
+        }
+      ],
+      "maxParticipants": 16,
+      "tags": [
+        "Speakeasy",
+        "Mezcal",
+        "Latino",
+        "Tacos"
+      ],
+      "createdAt": "2026-09-20T10:00:00Z"
+    }
+  ]
+}
